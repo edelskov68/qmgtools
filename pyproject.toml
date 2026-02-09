@@ -1,0 +1,7 @@
+[project]
+name = "qmgtools"
+version = "0.1.0"
+description = "IBM i python program to update QMGTOOLS from IBM"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
